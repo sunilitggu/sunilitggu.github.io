@@ -1,0 +1,15 @@
+@article{DBLP:journals/corr/SahuA16,
+  author    = {Sunil Kumar Sahu and
+               Ashish Anand},
+  title     = {Recurrent neural network models for disease name recognition using
+               domain invariant features},
+  journal   = {CoRR},
+  volume    = {abs/1606.09371},
+  year      = {2016},
+  url       = {http://arxiv.org/abs/1606.09371},
+  timestamp = {Fri, 01 Jul 2016 17:39:49 +0200},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/journals/corr/SahuA16},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+
+
