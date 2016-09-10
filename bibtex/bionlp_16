@@ -1,14 +1,8 @@
-@ARTICLE{2016arXiv160609370S,
-   	author = {{Sahu}, S.~K. and {Anand}, A. and {Oruganty}, K. and {Gattu}, M.},
-    	title = "{Relation extraction from clinical texts using domain invariant convolutional neural network}",
-  	journal = {ArXiv e-prints},
-	archivePrefix = "arXiv",
-   	eprint = {1606.09370},
- 	primaryClass = "cs.CL",
- 	keywords = {Computer Science - Computation and Language},
-     	year = 2016,
-    	month = jun,
-   	adsurl = {http://adsabs.harvard.edu/abs/2016arXiv160609370S},
-  	adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+@inproceedings{sunil2016relation,
+  title={Relation extraction from clinical texts using domain invariant convolutional neural network},
+  author={Sunil Kumar Sahu, Ashish Anand, Krishnadev Oruganty, Nandu Gattu},
+  booktitle={Proceedings of the 15th Workshop on Biomedical Natural Language Processing},
+  pages={206--215},
+  year={2016}
 }
 
