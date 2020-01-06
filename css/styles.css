@@ -1,0 +1,146 @@
+body{
+	/* for fixed navbar in footer;
+	without this text goes under the
+	navebar */
+
+	margin-bottom:100 px;
+	background-color:#FAFAFA;
+}
+.box{
+    box-shadow: 0px 0px 5px #AAAAAA;
+}
+
+/* for background image in header */
+/* not working currently 
+.jumbo {
+	background-image: url('../images/header1.jpg');
+	background-repeat: no-repeat center;
+	background-size:100%;
+}*/
+
+
+/*.resume-box {
+  margin-left: 10px;
+  margin-right:10px;
+}*/
+
+
+/* for spacing between main text and
+footer */
+#mainContent {
+  padding-bottom: 100px;
+}
+
+.photo{
+	margin-bottom: 15px;
+}
+
+/* To center the Menu Nav bar */
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+/* for team pictures */
+}
+.education {         
+          padding:0 0 0 0;
+          margin:0 0 0 0;
+}
+
+.ul_team li {     
+          list-style:none;
+          margin-bottom:25px;           
+}
+
+/* Jumbotron shadow
+.jumbotron{
+	box-shadow: 10px 10px 30px #888888;
+}*/
+
+/* remove indentation of ul*/
+/*ul_team{
+	padding: 0;
+}*/
+
+/* bottom border to look like underline for resume page*/
+/*h3{
+	border-bottom: 1px solid rgb(200, 200, 200);;
+}*/
+
+.ol_link li{
+	margin-bottom:15px;
+}
+
+/* navbar theme edit here*/
+
+.navbar-default {
+  background-color: #302f5f;
+  border-color: #504f7f;
+}
+.navbar-default .navbar-brand {
+  color: #ffffff;
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+  color: #ecf0f1;
+}
+.navbar-default .navbar-text {
+  color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+  color: #ecf0f1;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  color: #ecf0f1;
+  background-color: #504f7f;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+  color: #ecf0f1;
+  background-color: #504f7f;
+}
+.navbar-default .navbar-toggle {
+  border-color: #504f7f;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+  background-color: #504f7f;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #ffffff;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #ffffff;
+}
+.navbar-default .navbar-link {
+  color: #ffffff;
+}
+.navbar-default .navbar-link:hover {
+  color: #ecf0f1;
+}
+
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #ffffff;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #ecf0f1;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #ecf0f1;
+    background-color: #504f7f;
+  }
+}
+.icon-color{
+	color:#4099FF;
+}
+
+.icon-color-google{
+	color:#4285f4;
+}
