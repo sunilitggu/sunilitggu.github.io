@@ -1,8 +1,0 @@
-@inproceedings{sunil2016relation,
-  title={Relation extraction from clinical texts using domain invariant convolutional neural network},
-  author={Sunil Kumar Sahu, Ashish Anand, Krishnadev Oruganty, Nandu Gattu},
-  booktitle={Proceedings of the 15th Workshop on Biomedical Natural Language Processing},
-  pages={206--215},
-  year={2016}
-}
-
